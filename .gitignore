@@ -1,0 +1,10 @@
+data/
+*.duckdb
+.DS_Store
+.idea/
+Notes and To-Do.md
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
